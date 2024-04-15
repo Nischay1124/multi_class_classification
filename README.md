@@ -1,7 +1,7 @@
 # multi_class_classification
 This project is a demonstration of image classification using Convolutional Neural Networks (CNNs) implemented with TensorFlow and Keras. The goal is to classify images of various objects into different categories.
 
-Dataset
+#Dataset
 The dataset consists of images of the following objects:
 
 Clock
